@@ -19,7 +19,7 @@ export default function Home() {
         {/* Background */}
         <div className="absolute inset-0">
           <img
-            src="/images/hero.png"
+            src="/images/hero.jpg"
             alt="A local experience in Jaipur"
             className="h-full w-full object-cover object-[58%_center] sm:object-center"
             fetchPriority="high"
