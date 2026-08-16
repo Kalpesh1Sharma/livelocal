@@ -6,7 +6,7 @@ export default function StayLocal() {
         {/* Mobile / Tablet Image */}
         <div className="relative md:hidden">
           <img
-            src="/images/homestay.png"
+            src="/images/homestay.jpg"
             alt="A local homestay experience in Jaipur"
             loading="lazy"
             className="h-[420px] w-full object-cover sm:h-[500px]"
@@ -19,7 +19,7 @@ export default function StayLocal() {
         {/* Desktop Layout */}
         <div className="relative hidden min-h-[650px] md:block">
           <img
-            src="/images/homestay.png"
+            src="/images/homestay.jpg"
             alt="A local homestay experience in Jaipur"
             loading="lazy"
             className="absolute inset-0 h-full w-full object-cover"

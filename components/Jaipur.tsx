@@ -9,7 +9,7 @@ export default function Jaipur() {
 
           {/* Image */}
           <img
-            src="/images/jaipur.png"
+            src="/images/jaipur.jpg"
             alt="Jaipur, Rajasthan"
             loading="lazy"
             className="
